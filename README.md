@@ -13,13 +13,13 @@ A simple RESTful API built with Go (Golang) to manage a list of books. This proj
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/books-api.git
+   git clone https://github.com/namayjindal/books-api.git
    cd books-api
    ```
 
 2. **Initialize Go modules**:
    ```sh
-   go mod init github.com/yourusername/books-api
+   go mod init github.com/namayjindal/books-api
    go mod tidy
    ```
 
